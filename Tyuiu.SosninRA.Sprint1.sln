@@ -5,11 +5,11 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{29BDF595-FE26-454C-AF24-5FCBEBABEB28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint1.Task0.V17", "Tyuiu.SosninRA.Sprint1.Task0.V0\Tyuiu.SosninRA.Sprint1.Task0.V17.csproj", "{F55C4A7C-4A50-4526-9E00-800E34FC3A08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint1.Task0.V17", "Tyuiu.SosninRA.Sprint1.Task0.V17\Tyuiu.SosninRA.Sprint1.Task0.V17.csproj", "{8DF5FA83-8C1C-470C-9E95-41E9C5355F2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint1.Task0.V17.Lib", "Tyuiu.SosninRA.Sprint1.Task0.V0.Lib\Tyuiu.SosninRA.Sprint1.Task0.V17.Lib.csproj", "{60AFAE1D-38C4-4FBF-9F69-5C77A19EDC03}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint1.Task0.V17.Lib", "Tyuiu.SosninRA.Sprint1.Task0.V17.Lib\Tyuiu.SosninRA.Sprint1.Task0.V17.Lib.csproj", "{FC364BAF-25D4-4DA8-9344-43451B30D0B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint1.Task0.V17.Test", "Tyuiu.SosninRA.Sprint1.Task0.V0.Test\Tyuiu.SosninRA.Sprint1.Task0.V17.Test.csproj", "{2ADD2FC1-206E-4201-89D6-BEC4EED75563}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SosninRA.Sprint1.Task0.V17.Test", "Tyuiu.SosninRA.Sprint1.Task0.V17.Test\Tyuiu.SosninRA.Sprint1.Task0.V17.Test.csproj", "{636D8550-A5D5-416D-A93C-47BC1BC85CCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,25 +17,25 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F55C4A7C-4A50-4526-9E00-800E34FC3A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F55C4A7C-4A50-4526-9E00-800E34FC3A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F55C4A7C-4A50-4526-9E00-800E34FC3A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F55C4A7C-4A50-4526-9E00-800E34FC3A08}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60AFAE1D-38C4-4FBF-9F69-5C77A19EDC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60AFAE1D-38C4-4FBF-9F69-5C77A19EDC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60AFAE1D-38C4-4FBF-9F69-5C77A19EDC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60AFAE1D-38C4-4FBF-9F69-5C77A19EDC03}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2ADD2FC1-206E-4201-89D6-BEC4EED75563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2ADD2FC1-206E-4201-89D6-BEC4EED75563}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2ADD2FC1-206E-4201-89D6-BEC4EED75563}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2ADD2FC1-206E-4201-89D6-BEC4EED75563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DF5FA83-8C1C-470C-9E95-41E9C5355F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DF5FA83-8C1C-470C-9E95-41E9C5355F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DF5FA83-8C1C-470C-9E95-41E9C5355F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DF5FA83-8C1C-470C-9E95-41E9C5355F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC364BAF-25D4-4DA8-9344-43451B30D0B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC364BAF-25D4-4DA8-9344-43451B30D0B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC364BAF-25D4-4DA8-9344-43451B30D0B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC364BAF-25D4-4DA8-9344-43451B30D0B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636D8550-A5D5-416D-A93C-47BC1BC85CCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636D8550-A5D5-416D-A93C-47BC1BC85CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636D8550-A5D5-416D-A93C-47BC1BC85CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636D8550-A5D5-416D-A93C-47BC1BC85CCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{F55C4A7C-4A50-4526-9E00-800E34FC3A08} = {29BDF595-FE26-454C-AF24-5FCBEBABEB28}
-		{60AFAE1D-38C4-4FBF-9F69-5C77A19EDC03} = {29BDF595-FE26-454C-AF24-5FCBEBABEB28}
-		{2ADD2FC1-206E-4201-89D6-BEC4EED75563} = {29BDF595-FE26-454C-AF24-5FCBEBABEB28}
+		{8DF5FA83-8C1C-470C-9E95-41E9C5355F2C} = {29BDF595-FE26-454C-AF24-5FCBEBABEB28}
+		{FC364BAF-25D4-4DA8-9344-43451B30D0B9} = {29BDF595-FE26-454C-AF24-5FCBEBABEB28}
+		{636D8550-A5D5-416D-A93C-47BC1BC85CCD} = {29BDF595-FE26-454C-AF24-5FCBEBABEB28}
 	EndGlobalSection
 EndGlobal
